@@ -1,1 +1,1 @@
-# slider-js
+# Slider em js
